@@ -1,7 +1,7 @@
 print("Hello, World!")
 print("World!")
 
-print("Hola!")
+print("Hello!")
 print("Test")
 print("Test 2")
 
